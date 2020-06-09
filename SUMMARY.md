@@ -6,5 +6,5 @@
 
 ## Wiki
 
-* [Projektbuch](wiki/projektbuch.md)
+* [Projektbuch](de/wiki/projektbuch.md)
 
