@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # LICENSE INFORMATION DE/EN
+=======
+---
+description: How to use the contents of this site
+---
+
+# LICENSE INFORMATION
+>>>>>>> c693a850b0f13e8cae779eb80d58ebbe6ab86519
 
 ## Lizenz \(German\)
 
