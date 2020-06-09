@@ -1,5 +1,5 @@
 ---
-description: Was ist ein Projektbuch und wie hänget es mit dem Projekt zusammen?
+description: Was ist ein Projektbuch und wie hängt es mit dem Projekt zusammen?
 ---
 
 # Projektbuch
