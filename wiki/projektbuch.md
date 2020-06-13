@@ -24,5 +24,5 @@ Und wir wollen unser Projekt auch so durchführen, dass wir planen, was wir vorh
 
 Das Projekt-Team _schreibt_ das Projektbuch. Klingt ja erstmal logisch, da ja das Projektteam für die Ergebnisse verantwortlich ist. Aber - gilt das auch für die anderen Dokumentarten? Ja bitte - wir sind alle gemeinsam für dieses Projekt verantwortlich. Daher ist es nicht nur erlaubt, sondern gewünscht, dass auch die Vorlagen, die Wiki-Seiten und die Planung ergänzt oder korrigiert werden, wenn dort etwas nicht stimmt.
 
-Keine Sorge, ihr könnt nichts zerstören! Alle Versionen werden als Arbeitsstand gespeichert \(wenn der grüne "Save" Knopf links unten gedrückt wurde\) und für immer im Archiv aufgehoben \(wenn nach dem Save auch noch der violette "Merge" Knopf gedrückt wurde\).
+Aber keine Sorge, ihr könnt nichts zerstören! Alle Versionen werden als Arbeitsstand gespeichert \(wenn der grüne "Save" Knopf links unten gedrückt wurde\) und für immer im Archiv aufgehoben \(wenn nach dem Save auch noch der violette "Merge" Knopf gedrückt wurde\).
 
