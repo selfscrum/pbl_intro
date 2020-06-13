@@ -28,5 +28,5 @@ Aber keine Sorge, ihr könnt nichts zerstören! Alle Versionen werden als Arbeit
 
 ## Was passiert beim Schreiben im Team?
 
-Was passiert , wenn zwei Team-Mitglieder gleichzeitig dasselbe Dokument ändern? Dann merkt das System beim Speichern, dass zwei Menschen dasselbe Dokument schreiben wollen und veranlasst einen "Merge-Konflikt".  Meistens ist der automatisch zu Lösen.
+Was passiert , wenn zwei Team-Mitglieder gleichzeitig dasselbe Dokument ändern? Dann merkt das System beim Speichern, dass zwei Menschen dasselbe Dokument schreiben wollen und veranlasst einen "Merge-Konflikt".  Meistens ist der automatisch aufzulösen.
 
