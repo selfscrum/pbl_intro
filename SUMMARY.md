@@ -5,15 +5,9 @@
 
 ## Planung
 
-* [Zeitplan](planung/zeitplan.md)
-
 ## Vorlagen
 
-* [Untitled](vorlagen/untitled.md)
-
 ## Ergebnisse
-
-* [Untitled](ergebnisse/untitled.md)
 
 ## Wiki
 
