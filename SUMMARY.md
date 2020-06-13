@@ -5,6 +5,8 @@
 
 ## Planung
 
+* [Zeitplan](planung/zeitplan.md)
+
 ## Vorlagen
 
 ## Ergebnisse
