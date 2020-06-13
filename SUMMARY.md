@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Startseite](README.md)
-* [LICENSE INFORMATION DE/EN](license.md)
 
 ## Planung
 
@@ -15,4 +14,5 @@
 
 * [Projektbuch](wiki/projektbuch.md)
 * [Zeitplan](wiki/zeitplan.md)
+* [LICENSE INFORMATION](wiki/license.md)
 
