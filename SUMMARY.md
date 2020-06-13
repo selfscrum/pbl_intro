@@ -2,7 +2,10 @@
 
 * [Startseite](README.md)
 * [LICENSE INFORMATION DE/EN](license.md)
-* [Zuerst lesen](readme_first.md)
+
+## Planung
+
+* [Zeitplan](planung/zeitplan.md)
 
 ## Wiki
 
