@@ -2,4 +2,9 @@
 
 * [Startseite](README.md)
 * [LICENSE INFORMATION DE/EN](license.md)
-* [Zuerst lesen](de/readme_first.md)
+* [Zuerst lesen](readme_first.md)
+
+## Wiki
+
+* [Projektbuch](wiki/projektbuch.md)
+
