@@ -6,5 +6,6 @@
 
 ## Wiki
 
-* [Projektbuch](de/wiki/projektbuch.md)
+* [Zeitplan](wiki/zeitplan.md)
+* [Projektbuch](wiki/projektbuch.md)
 
