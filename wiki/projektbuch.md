@@ -26,7 +26,11 @@ Das Projekt-Team _schreibt_ das Projektbuch. Klingt ja erstmal logisch, da ja da
 
 Aber keine Sorge, ihr könnt nichts zerstören! Alle Versionen werden als Arbeitsstand gespeichert \(wenn der grüne "Save" Knopf links unten gedrückt wurde\) und für immer im Archiv aufgehoben \(wenn nach dem Save auch noch der violette "Merge" Knopf gedrückt wurde\).
 
+Alle Interessierten _lesen_ das Projektbuch. Alles, was im Projektbuch veröffentlicht wurde, steht im Internet als eigene Webseite zur Verfügung. Die Seite für dieses Projekt ist [hier](https://projekte.raum-fuer-natuerliches-lernen.de/basecamp)
+
 ## Was passiert beim Schreiben im Team?
 
-Was passiert , wenn zwei Team-Mitglieder gleichzeitig dasselbe Dokument ändern? Dann merkt das System beim Speichern, dass zwei Menschen dasselbe Dokument schreiben wollen und veranlasst einen "Merge-Konflikt".  Meistens ist der automatisch aufzulösen.
+Was passiert , wenn zwei Team-Mitglieder gleichzeitig dasselbe Dokument ändern? Dann merkt das System beim Speichern, dass zwei Menschen dasselbe Dokument schreiben wollen und veranlasst einen "Merge-Konflikt".  Meistens ist der automatisch zu lösen. Nur wenn man im selben Absatz etwas ändert, geht das nicht mehr automatisch. Wie soll das System auch selber entscheiden, ob deine Änderung oder die des anderen Teammitglieds die endgültige Version ist? Das kannst nur du. Also stellt das System dann beide Varianten im Text dar und du kannst entscheiden, welche bleiben soll.
+
+ 
 
