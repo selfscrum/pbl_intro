@@ -9,8 +9,7 @@ Das Projektbuch ist eine Sammlung von wichtigen Dokumenten, die unser Projekt be
 * Planungsdokumente
 * Vorlagen
 * Wiki-Seiten für
-
-\*\* Regeln
+  * Regeln
 
 
 
