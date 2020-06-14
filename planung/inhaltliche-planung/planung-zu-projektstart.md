@@ -32,7 +32,7 @@ Dauer des Projekts: Das erste Projekt ist auf 3 Wochen festgelegt, die Folgeproj
 
 Kooperationen: fallweise zu klären. Können wir hier vorausplanen?
 
-Ressourcen: wenn man bereits ein Thema hat, kann die Auswahl für das [Materialangebot ](../../materialangebot.md)schon beginnen.
+Ressourcen: wenn man bereits ein Thema hat, kann die Auswahl für das [Materialangebot ](../../wiki/materialangebot.md)schon beginnen.
 
 Mittel: Sollte es ein Projektbudget geben? Welches Material kann als vorhanden vorausgesetzt werden, wie entsteht später \(in der [Planungsphase](planung-zu-planung.md)\) eine "Projektmaterialliste"?
 
@@ -42,7 +42,7 @@ Was ist möglich als Aktion für den Einstieg? Was kann den Schülern dazu angeb
 
 ## Ergebnis
 
-Ein [Nachhaltigkeitsziel](../../nachhaltigkeitsziel.md) ist für die Schüler\*innen ausgewählt.
+Ein [Nachhaltigkeitsziel](../../wiki/nachhaltigkeitsziel.md) ist für die Schüler\*innen ausgewählt.
 
 Eine mögliche Startatkion für den Einstieg ist skizziert.
 

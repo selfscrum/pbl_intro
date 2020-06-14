@@ -21,10 +21,11 @@
 
 ## Wiki
 
+* [Forschungsfrage](wiki/forschungsfrage.md)
 * [Projektbuch](wiki/projektbuch.md)
 * [Projektphasen](wiki/projektphasen.md)
 * [Zeitplan](wiki/zeitplan.md)
 * [LICENSE INFORMATION](wiki/license.md)
-* [Nachhaltigkeitsziel](nachhaltigkeitsziel.md)
-* [Materialangebot](materialangebot.md)
+* [Nachhaltigkeitsziel](wiki/nachhaltigkeitsziel.md)
+* [Materialangebot](wiki/materialangebot.md)
 
