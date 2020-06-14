@@ -21,4 +21,5 @@
 * [Projektphasen](wiki/projektphasen.md)
 * [Zeitplan](wiki/zeitplan.md)
 * [LICENSE INFORMATION](wiki/license.md)
+* [Nachhaltigkeitsziel](nachhaltigkeitsziel.md)
 
