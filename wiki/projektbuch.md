@@ -10,15 +10,18 @@ Das Projektbuch ist eine Sammlung von wichtigen Dokumenten, die unser Projekt be
 
 * Planungsdokumente
 * Vorlagen
-* Ergebnisse
+* Arbeitsvorhaben
+* Projektergebnisse
 * Wiki-Seiten für
   * Definitionen
   * Konzepte
   * Projektregeln
 
-Am wichtigsten sind natürlich die Ergebnisse! 
+Am wichtigsten sind natürlich die Arbeitsvorhaben und die Projektergebnisse! 
 
-Und wir wollen unser Projekt auch so durchführen, dass wir planen, was wir vorhaben. Dafür gibt es einen Zeitplan, einen Plan, was wir vermutlich benötigen und mit wem wir in diesem Projekt zusammenarbeiten wollen.
+Wir wollen unser Projekt so durchführen, dass wir planen, was wir vorhaben. 
+
+Dafür gibt es einen Zeitplan, einen Plan, was wir vermutlich benötigen und mit wem wir in diesem Projekt zusammenarbeiten wollen.
 
 ## Wer macht was mit dem Projektbuch?
 

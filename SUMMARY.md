@@ -22,8 +22,6 @@
 
 ## Projektergebnisse <a id="ergebnisse-1"></a>
 
-* [Untitled](ergebnisse-1/untitled.md)
-
 ## Wiki
 
 * [Arbeitsvorhaben](wiki/arbeitsvorhaben.md)
