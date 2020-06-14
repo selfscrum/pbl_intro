@@ -4,6 +4,7 @@
 
 ## Planung
 
+* [Inhaltliche Planung](planung/inhaltliche-planung.md)
 * [Zeitplan](planung/zeitplan.md)
 
 ## Vorlagen
