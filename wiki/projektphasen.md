@@ -2,7 +2,7 @@
 
 ### Projektstart
 
-Bla bla bla
+Bla bla bla blub
 
 Der Start ist das wichtigste!
 
