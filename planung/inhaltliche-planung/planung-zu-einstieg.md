@@ -6,7 +6,7 @@
 * Reflexionsgespräch ? Form?
 * Arbeitsauftrag zum Erklären: 
   * Was bedeutet das Ziel für dich persönlich? 
-  * Wie findest du deine Forschungsfragen?
+  * Wie findest du deine [Forschungsfrage](../../wiki/forschungsfrage.md)?
 
 ## Arbeitsmethoden und -techniken der Schüler\*innen
 
@@ -14,5 +14,7 @@ Die individuelle Art und Weise, wie Schüler persönlich lernen, ist ihnen freig
 
 Alle Beteiligten dokumentieren wichtige Projektschritte und die Ergebnisse im digitalen Projektbuch.
 
-## Beschäftigen mit dem Nachhaltigkeitsziel
+
+
+
 
