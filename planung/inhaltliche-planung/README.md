@@ -1,4 +1,4 @@
-# Inhaltliche Planung
+# Planung des Ablaufs
 
 
 
