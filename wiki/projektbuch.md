@@ -30,7 +30,7 @@ Alle Interessierten _lesen_ das Projektbuch. Alles, was im Projektbuch veröffen
 
 ## Was passiert beim Schreiben im Team?
 
-Was passiert , wenn zwei Team-Mitglieder gleichzeitig dasselbe Dokument ändern? Dann merkt das System beim Speichern, dass zwei Menschen dasselbe Dokument schreiben wollen und veranlasst einen "Merge-Konflikt".  Meistens ist der automatisch zu lösen. Nur wenn man im selben Absatz etwas ändert, geht das nicht mehr automatisch. Wie soll das System auch selber entscheiden, ob deine Änderung oder die des anderen Teammitglieds die endgültige Version ist? Das kannst nur du. Also stellt das System dann beide Varianten im Text dar und du kannst entscheiden, welche bleiben soll.
+Was passiert , wenn zwei Team-Mitglieder gleichzeitig dasselbe Dokument ändern? Dann merkt das System beim Speichern, dass zwei Menschen dasselbe Dokument schreiben wollen und veranlasst einen "Merge-Konflikt".  Meistens kann das System dies von selber lösen. Nur wenn man im selben Absatz etwas ändert, geht das nicht mehr automatisch. Wie soll das System auch selber entscheiden, ob deine Änderung oder die des anderen Teammitglieds die endgültige Version ist? Das kannst nur du. Also stellt das System dann beide Varianten im Text dar und du kannst entscheiden, welche bleiben soll.
 
 Wer größere Umbauten im Dokumentenbestand vorhat, sollte sich zuerst eine Variante erstellen. Das ist eine Kopie des gesamten Projektbuchs, die dann unabhängig von allen anderen Autoren geschrieben werden kann. Aber Achtung - am Ende muss das wieder mit der ursprünglichen Version zusammengeführt werden. Das kann je nach Änderung ziemlich viel Arbeit sein. Am besten sprecht ihr das zunächst gemeinsam im Projekteam durch, wenn ihr das vorhabt.
 
