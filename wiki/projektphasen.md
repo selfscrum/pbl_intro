@@ -2,6 +2,8 @@
 
 ### Projektstart
 
+Bla bla bla
+
 Der Start ist das wichtigste!
 
 ### Einstieg
