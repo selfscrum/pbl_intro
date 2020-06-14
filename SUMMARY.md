@@ -6,10 +6,6 @@
 
 * [Zeitplan](planung/zeitplan.md)
 
-## Vorlagen
-
-## Ergebnisse
-
 ## Wiki
 
 * [Projektbuch](wiki/projektbuch.md)

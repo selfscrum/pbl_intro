@@ -1,3 +1,7 @@
+---
+description: How to use the contents of this site
+---
+
 # LICENSE INFORMATION
 
 ## Lizenz \(German\)
