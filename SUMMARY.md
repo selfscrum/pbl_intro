@@ -4,7 +4,9 @@
 
 ## Planung
 
-* [Inhaltliche Planung](planung/inhaltliche-planung.md)
+* [Inhaltliche Planung](planung/inhaltliche-planung/README.md)
+  * [Planung zu "Projektstart"](planung/inhaltliche-planung/planung-zu-projektstart.md)
+  * [Planung zu "Einstieg"](planung/inhaltliche-planung/planung-zu-einstieg.md)
 * [Zeitplan](planung/zeitplan.md)
 
 ## Vorlagen
@@ -22,4 +24,5 @@
 * [Zeitplan](wiki/zeitplan.md)
 * [LICENSE INFORMATION](wiki/license.md)
 * [Nachhaltigkeitsziel](nachhaltigkeitsziel.md)
+* [Materialangebot](materialangebot.md)
 
