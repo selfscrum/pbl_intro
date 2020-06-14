@@ -28,10 +28,10 @@
 
 * [Arbeitsvorhaben](wiki/arbeitsvorhaben.md)
 * [Forschungsfrage](wiki/forschungsfrage.md)
+* [Materialangebot](wiki/materialangebot.md)
+* [Nachhaltigkeitsziel](wiki/nachhaltigkeitsziel.md)
 * [Projektbuch](wiki/projektbuch.md)
 * [Projektphasen](wiki/projektphasen.md)
 * [Zeitplan](wiki/zeitplan.md)
-* [LICENSE INFORMATION](wiki/license.md)
-* [Nachhaltigkeitsziel](wiki/nachhaltigkeitsziel.md)
-* [Materialangebot](wiki/materialangebot.md)
+* [LICENSE INFORMATION](license.md)
 

@@ -17,7 +17,7 @@ Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange du dich an die Li
 ### Unter folgenden Bedingungen
 
 > Namensnennung — Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade dich oder deine Nutzung besonders.
-
+>
 > Keine weiteren Einschränkungen — du darfst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
 
 Mehr über die Bedingungen dieser Lizenz steht hier: [creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de).
@@ -39,9 +39,8 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 ### Under the following terms
 
 > Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
+>
 > No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
 
 You can get more information about the licence here: [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)
 
