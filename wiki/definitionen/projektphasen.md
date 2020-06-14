@@ -2,8 +2,6 @@
 
 ### Projektstart
 
-
-
 ### Einstieg
 
 ### Planung
