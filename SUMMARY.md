@@ -30,5 +30,7 @@
   * [Projektbuch](wiki/definitionen/projektbuch.md)
   * [Projektphasen](wiki/definitionen/projektphasen.md)
   * [Zeitplan](wiki/definitionen/zeitplan.md)
+* [Konzepte](wiki/konzepte.md)
+* [Projektregeln](wiki/projektregeln.md)
 * [LICENSE INFORMATION](license.md)
 
