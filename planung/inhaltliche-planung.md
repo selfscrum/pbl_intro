@@ -20,3 +20,9 @@ z.B. "Mittelalter hatte seine Probleme, wir haben unsere... AIJ
 
 z.B. die Schablonen in der Schule nutzen. MJA
 
+
+
+## Ergebnis
+
+Ein Nachhaltigleitsthema ist für die Schüler\*innen ausgewählt.
+
