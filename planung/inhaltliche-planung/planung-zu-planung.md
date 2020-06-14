@@ -1,6 +1,6 @@
 # Zur "Planung"
 
-## Aktivität 1: Finden der Forschungsfrage
+## Aktivität 1: Finde die Forschungsfrage
 
 Um die Phase erfolgreich abzuschließen, sollen die Schüler\*innen in dieser Phase ihre Forschungsfrage finden. Diese bezieht sich auf das Nachhaltigkeitsziel und spiegelt das individuelle Interesse der Schüler\* wider.
 
@@ -14,7 +14,7 @@ Manche Jugendlichen brauchen eine längere Inkubationszeit, um eine echte Frage 
 
 Jeder\* Schüler\* hat seine Forschungsfrage\(n\) für sich formuliert.
 
-## Aktivität 2: Finden des Arbeitsvorhabens
+## Aktivität 2: Finde das Arbeitsvorhaben
 
 Das [Arbeitsvorhaben](../../wiki/definitionen/arbeitsvorhaben.md) entscheidet über die Ausformulierung der einzelnen Projektaufträge.
 
