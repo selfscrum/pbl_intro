@@ -13,8 +13,6 @@
 
 ## Vorlagen
 
-* [Untitled](vorlagen/untitled.md)
-
 ## Arbeitsvorhaben <a id="ergebnisse"></a>
 
 * [Beispiel: Rettet die Wale!](ergebnisse/untitled/README.md)
@@ -24,12 +22,13 @@
 
 ## Wiki
 
-* [Arbeitsvorhaben](wiki/arbeitsvorhaben.md)
-* [Forschungsfrage](wiki/forschungsfrage.md)
-* [Materialangebot](wiki/materialangebot.md)
-* [Nachhaltigkeitsziel](wiki/nachhaltigkeitsziel.md)
-* [Projektbuch](wiki/projektbuch.md)
-* [Projektphasen](wiki/projektphasen.md)
-* [Zeitplan](wiki/zeitplan.md)
+* [Definitionen](wiki/definitionen/README.md)
+  * [Arbeitsvorhaben](wiki/definitionen/arbeitsvorhaben.md)
+  * [Forschungsfrage](wiki/definitionen/forschungsfrage.md)
+  * [Materialangebot](wiki/definitionen/materialangebot.md)
+  * [Nachhaltigkeitsziel](wiki/definitionen/nachhaltigkeitsziel.md)
+  * [Projektbuch](wiki/definitionen/projektbuch.md)
+  * [Projektphasen](wiki/definitionen/projektphasen.md)
+  * [Zeitplan](wiki/definitionen/zeitplan.md)
 * [LICENSE INFORMATION](license.md)
 

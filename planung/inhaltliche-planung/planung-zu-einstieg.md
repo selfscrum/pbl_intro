@@ -6,7 +6,7 @@
 * Reflexionsgespräch ? Form?
 * Arbeitsauftrag zum Erklären: 
   * Was bedeutet das Ziel für dich persönlich? 
-  * Wie findest du deine [Forschungsfrage](../../wiki/forschungsfrage.md)?
+  * Wie findest du deine [Forschungsfrage](../../wiki/definitionen/forschungsfrage.md)?
 
 ## Arbeitsmethoden und -techniken der Schüler\*innen
 
