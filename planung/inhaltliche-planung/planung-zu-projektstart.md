@@ -1,4 +1,4 @@
-# Planung zu "Projektstart"
+# Zum "Projektstart"
 
 [Infos zum Thema: **17ziele.de**](https://17ziele.de/)\*\*\*\*
 

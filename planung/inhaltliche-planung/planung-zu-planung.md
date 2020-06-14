@@ -1,4 +1,4 @@
-# Planung zu "Planung"
+# Zur "Planung"
 
 ## Aktivität 1: Finden der Forschungsfrage
 

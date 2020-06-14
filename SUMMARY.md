@@ -5,9 +5,13 @@
 ## Planung
 
 * [Planung des Ablaufs](planung/inhaltliche-planung/README.md)
-  * [Planung zu "Projektstart"](planung/inhaltliche-planung/planung-zu-projektstart.md)
-  * [Planung zu "Einstieg"](planung/inhaltliche-planung/planung-zu-einstieg.md)
-  * [Planung zu "Planung"](planung/inhaltliche-planung/planung-zu-planung.md)
+  * [Zum "Projektstart"](planung/inhaltliche-planung/planung-zu-projektstart.md)
+  * [Zum "Einstieg"](planung/inhaltliche-planung/planung-zu-einstieg.md)
+  * [Zur "Planung"](planung/inhaltliche-planung/planung-zu-planung.md)
+  * [Zur "Durchführung"](planung/inhaltliche-planung/zur-durchfuehrung.md)
+  * [Zur "Präsentation"](planung/inhaltliche-planung/zur-praesentation.md)
+  * [Zur "Auswertung"](planung/inhaltliche-planung/zur-auswertung.md)
+  * [Zur "Weiterführung"](planung/inhaltliche-planung/zur-weiterfuehrung.md)
 * [Planung der Infrastruktur](planung/planung-der-infrastruktur.md)
 * [Planung der Projektsteuerung](planung/planung-der-projektsteuerung.md)
 * [Zeitplan](planung/zeitplan.md)

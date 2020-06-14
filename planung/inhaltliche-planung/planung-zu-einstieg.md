@@ -1,4 +1,4 @@
-# Planung zu "Einstieg"
+# Zum "Einstieg"
 
 ## Gestaltung des Kickoff-Termins
 
