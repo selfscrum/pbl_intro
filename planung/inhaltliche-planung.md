@@ -2,6 +2,8 @@
 
 [Infos zum Thema: **17ziele.de**](https://17ziele.de/)\*\*\*\*
 
+![](../.gitbook/assets/grafik.png)
+
 ## Festlegung des Themenbereichs
 
 Wir müssten entscheiden, wie wir im Projektstart vorgehen wollen:
@@ -24,5 +26,5 @@ z.B. die Schablonen in der Schule nutzen. MJA
 
 ## Ergebnis
 
-Ein Nachhaltigleitsthema ist für die Schüler\*innen ausgewählt.
+Ein [Nachhaltigkeitsziel](../nachhaltigkeitsziel.md) ist für die Schüler\*innen ausgewählt.
 
