@@ -26,7 +26,7 @@ Das Projekt-Team _schreibt_ das Projektbuch. Klingt ja erstmal logisch, da ja da
 
 Aber keine Sorge, ihr könnt nichts zerstören! Alle Versionen werden als Arbeitsstand gespeichert \(wenn der grüne "Save" Knopf links unten gedrückt wurde\) und für immer im Archiv aufgehoben \(wenn nach dem Save auch noch der violette "Merge" Knopf gedrückt wurde\).
 
-Alle Interessierten _lesen_ das Projektbuch. Alles, was im Projektbuch veröffentlicht wurde, steht im Internet als eigene Webseite zur Verfügung. Die Lese-Seite für dieses Projekt ist [hier](https://projekte.raum-fuer-natuerliches-lernen.de/basecamp)
+Alle Interessierten _lesen_ das Projektbuch. Alles, was im Projektbuch veröffentlicht wurde, steht im Internet als eigene Webseite zur Verfügung. Die Lese-Seite für dieses Projekt ist [**hier**](https://projekte.raum-fuer-natuerliches-lernen.de/basecamp)\*\*\*\*
 
 ## Was passiert beim Schreiben im Team?
 
