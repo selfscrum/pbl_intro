@@ -2,6 +2,8 @@
 
 ### Projektstart
 
+Der Start ist das wichtigste!
+
 ### Einstieg
 
 ### Planung
