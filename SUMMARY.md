@@ -17,6 +17,7 @@
 ## Wiki
 
 * [Projektbuch](wiki/projektbuch.md)
+* [Projektphasen](wiki/projektphasen.md)
 * [Zeitplan](wiki/zeitplan.md)
 * [LICENSE INFORMATION](wiki/license.md)
 
