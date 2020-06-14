@@ -1,2 +1,0 @@
-# Unsere Materialliste
-

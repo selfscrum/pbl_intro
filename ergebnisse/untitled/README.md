@@ -1,2 +1,0 @@
-# Beispiel: Rettet die Wale!
-
