@@ -5,8 +5,8 @@
 * Die gewählte Aktion durchführen \(Film, Besuch etc.\)
 * Reflexionsgespräch ? Form?
 * Arbeitsauftrag zum Erklären: 
-* Was bedeutet das Ziel für dich persönlich? 
-* Wie findest du gute Fragen?
+ * Was bedeutet das Ziel für dich persönlich? 
+ * Wie findest du gute Fragen?
 
 ## Arbeitsmethoden und -techniken der Schüler\*innen
 
