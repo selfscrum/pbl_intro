@@ -44,5 +44,5 @@ Was ist möglich als Aktion für den Einstieg? Was kann den Schülern dazu angeb
 
 Ein [Nachhaltigkeitsziel](../../wiki/definitionen/nachhaltigkeitsziel.md) ist für die Schüler\*innen ausgewählt.
 
-Eine mögliche Startatkion für den Einstieg ist skizziert.
+Eine mögliche Startaktion für den Einstieg ist skizziert.
 
