@@ -1,6 +1,6 @@
 # Zum "Projektstart"
 
-[Infos zum Thema: **17ziele.de**](https://17ziele.de/)\*\*\*\*
+Infos zum Thema: [17ziele.de](https://17ziele.de)
 
 ![](../../.gitbook/assets/grafik.png)
 
@@ -22,8 +22,12 @@ z.B. "Mittelalter hatte seine Probleme, wir haben unsere... AIJ
 
 ## Umsetzungsideen für den physischen Raum entwickeln
 
-z.B. die Schablonen in der Schule nutzen. MJA
+Wir wollen nicht nur "Digitalunterricht". Auch wenn das Projektbuch unsere zentrale Prozess- und Ergebnisablage ist, sollen die Schüler\*innen auch in der physischen Welt aktiv werden.
 
+Ideen dazu
+
+* die Schablonen von [17ziele.de](https://17ziele.de) in der Schule nutzen. 
+* 
 ## Planungsaufgaben zum Ende der Phase
 
 Vorausplanung: Bestimmung des komplexen Gegenstands: ergibt sich aus der Entscheidung oben.
