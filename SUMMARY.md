@@ -2,7 +2,7 @@
 
 * [Startseite](README.md)
 
-## Planung
+## Projektbasiertes Lernen <a id="planung"></a>
 
 * [Planung des Ablaufs](planung/inhaltliche-planung/README.md)
   * [Zum "Projektstart"](planung/inhaltliche-planung/planung-zu-projektstart.md)
@@ -34,5 +34,8 @@
   * [Zeitplan](wiki/definitionen/zeitplan.md)
 * [Konzepte](wiki/konzepte.md)
 * [Projektregeln](wiki/projektregeln.md)
+
+---
+
 * [LICENSE INFORMATION](license.md)
 

@@ -36,7 +36,7 @@ Dauer des Projekts: Das erste Projekt ist auf 3 Wochen festgelegt, die Folgeproj
 
 Kooperationen: fallweise zu klären. Können wir hier vorausplanen?
 
-Ressourcen: wenn man bereits ein Thema hat, kann die Auswahl für das [Materialangebot ](../../wiki/definitionen/materialangebot.md)schon beginnen.
+Ressourcen: wenn man bereits ein Thema hat, kann die Auswahl für das [Materialangebot ](../../wiki/definitionen/materialangebot.md)schon beginnen. Sonst erst in der [Planungsphase](planung-zu-planung.md).
 
 Mittel: Sollte es ein Projektbudget geben? Welches Material kann als vorhanden vorausgesetzt werden, wie entsteht später \(in der [Planungsphase](planung-zu-planung.md)\) eine "Projektmaterialliste"?
 
