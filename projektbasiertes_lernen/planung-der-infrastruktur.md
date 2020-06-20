@@ -1,4 +1,4 @@
-# Planung der Infrastruktur
+# Die Infrastruktur
 
 ## Computer
 

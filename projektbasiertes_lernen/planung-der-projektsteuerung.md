@@ -1,4 +1,4 @@
-# Planung der Projektsteuerung
+# Die Projektsteuerung
 
 Welche Zeiten haben wir zur Verfügung?
 

@@ -1,4 +1,4 @@
-# Planung des Ablaufs
+# Der Ablauf
 
 
 

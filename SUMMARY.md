@@ -2,19 +2,19 @@
 
 * [Startseite](README.md)
 
-## Projektbasiertes Lernen <a id="planung"></a>
+## Projektbasiertes Lernen <a id="projektbasiertes_lernen"></a>
 
-* [Planung des Ablaufs](planung/inhaltliche-planung/README.md)
-  * [Zum "Projektstart"](planung/inhaltliche-planung/planung-zu-projektstart.md)
-  * [Zum "Einstieg"](planung/inhaltliche-planung/planung-zu-einstieg.md)
-  * [Zur "Planung"](planung/inhaltliche-planung/planung-zu-planung.md)
-  * [Zur "Durchführung"](planung/inhaltliche-planung/zur-durchfuehrung.md)
-  * [Zur "Präsentation"](planung/inhaltliche-planung/zur-praesentation.md)
-  * [Zur "Auswertung"](planung/inhaltliche-planung/zur-auswertung.md)
-  * [Zur "Weiterführung"](planung/inhaltliche-planung/zur-weiterfuehrung.md)
-* [Planung der Infrastruktur](planung/planung-der-infrastruktur.md)
-* [Planung der Projektsteuerung](planung/planung-der-projektsteuerung.md)
-* [Zeitplan](planung/zeitplan.md)
+* [Der Ablauf](projektbasiertes_lernen/inhaltliche-planung/README.md)
+  * [Zum "Projektstart"](projektbasiertes_lernen/inhaltliche-planung/planung-zu-projektstart.md)
+  * [Zum "Einstieg"](projektbasiertes_lernen/inhaltliche-planung/planung-zu-einstieg.md)
+  * [Zur "Planung"](projektbasiertes_lernen/inhaltliche-planung/planung-zu-planung.md)
+  * [Zur "Durchführung"](projektbasiertes_lernen/inhaltliche-planung/zur-durchfuehrung.md)
+  * [Zur "Präsentation"](projektbasiertes_lernen/inhaltliche-planung/zur-praesentation.md)
+  * [Zur "Auswertung"](projektbasiertes_lernen/inhaltliche-planung/zur-auswertung.md)
+  * [Zur "Weiterführung"](projektbasiertes_lernen/inhaltliche-planung/zur-weiterfuehrung.md)
+* [Die Infrastruktur](projektbasiertes_lernen/planung-der-infrastruktur.md)
+* [Die Projektsteuerung](projektbasiertes_lernen/planung-der-projektsteuerung.md)
+* [Zeitplan](projektbasiertes_lernen/zeitplan.md)
 
 ## Vorlagen
 
