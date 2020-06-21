@@ -2,6 +2,18 @@
 
 * [Startseite](README.md)
 
+## Meta
+
+---
+
+* [Erstellung dieses Projekts](erstellung-dieses-projekts/README.md)
+  * [Aktivitäten Planungsprojekt](erstellung-dieses-projekts/aktivitaeten-planungsprojekt.md)
+  * [Material und Vorlagen](erstellung-dieses-projekts/material-und-vorlagen/README.md)
+    * [Einladungs-Mail gitbook](erstellung-dieses-projekts/material-und-vorlagen/einladungs-mail-gitbook.md)
+    * [Open Source Manual](erstellung-dieses-projekts/material-und-vorlagen/open-source-manual.md)
+    * [Gitbook-Manual](erstellung-dieses-projekts/material-und-vorlagen/gitbook-manual.md)
+  * [Kickoff-Workshop](erstellung-dieses-projekts/kickoff-workshop.md)
+
 ## Projektbasiertes Lernen <a id="projektbasiertes_lernen"></a>
 
 * [Der Ablauf](projektbasiertes_lernen/inhaltliche-planung/README.md)
