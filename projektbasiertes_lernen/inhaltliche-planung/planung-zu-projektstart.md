@@ -30,7 +30,7 @@ Ideen dazu
 * 
 ## Planungsaufgaben zum Ende der Phase
 
-Vorausplanung: Bestimmung des komplexen Gegenstands: ergibt sich aus der Entscheidung oben.
+Vorausplanung: Bestimmung des Nachhaltigkeitsziels: ergibt sich aus der Entscheidung oben.
 
 Dauer des Projekts: Das erste Projekt ist auf 3 Wochen festgelegt, die Folgeprojekte sind 6-8 Wochen lang und orientieren sich am Ablauf des Schuljahrs
 
@@ -40,7 +40,7 @@ Ressourcen: wenn man bereits ein Thema hat, kann die Auswahl für das [Materiala
 
 Mittel: Sollte es ein Projektbudget geben? Welches Material kann als vorhanden vorausgesetzt werden, wie entsteht später \(in der [Planungsphase](planung-zu-planung.md)\) eine "Projektmaterialliste"?
 
-Was ist möglich als Aktion für den Einstieg? Was kann den Schülern dazu angeboten werden? z.B. Film, Ausflug, Experten-Interview... Wo werden diese Ideen gesammelt?
+Was ist möglich als Aktion für den Einstieg? Was kann den Schülern dazu angeboten werden? z.B. Film, Ausflug, Experten-Interview... Wo werden diese Ideen gesammelt? Sollten die Schüler dies auch vorschlagen können?
 
 **Noch offen:** Wo und wie planen und dokumentieren Lernbegleiter? Evtl brauchen wir hier noch eine geschützte separate Ablage \(oder hier im Projektbuch?\). Es darf auf jeden Fall keine "Privatablagen" geben. Das Wissen über das Projekt und die Teilnehmer ist auf Schulseite Gemeingut, damit eine gemeinsame Durchführung von Projekten, z.b. im Vertretungsfall möglich ist.
 

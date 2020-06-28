@@ -1,6 +1,6 @@
 # Gitbook README
 
-## How to perform initial setup
+## How to perform the initial setup
 
 ### Per Organization
 * modify a subdomain in your web presence to allow people to read the gitbook via the associated domain.
@@ -16,3 +16,4 @@
 * Add the github URL as "Repo" to the first slot in Header section
 * keep the writer team's writer role link, You will need it for the inviation email template.
 * Integrate with the proper github repo. use "github to gitbook" as first integration direction.
+* Populate the project with a proper SUMMARY.md to define the project's gitbook structure. 
