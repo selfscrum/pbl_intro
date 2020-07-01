@@ -9,6 +9,8 @@
   * Was bedeutet das Ziel für dich persönlich? 
   * Wie findest du deine [Forschungsfrage](../../wiki/definitionen/forschungsfrage.md)?
 
+* Einverständniserklärung der Eltern, die Projektergebnisse der beteiligten Schüler*innen öffentlich darzustellen (einmal pro Schuljahr?)
+
 ## Arbeitsmethoden und -techniken der Schüler\*innen
 
 Die individuelle Art und Weise, wie Schüler persönlich lernen, ist ihnen freigestellt. Wir können hier Hilfestellung bieten.

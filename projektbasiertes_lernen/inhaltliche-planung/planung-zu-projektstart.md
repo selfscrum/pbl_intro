@@ -13,6 +13,7 @@ Wir müssten entscheiden, wie wir im Projektstart vorgehen wollen:
 3. Ein Nachhaltigkeitsthema festlegen.
 4. Losen
 5. Über ein Spiel ermitteln.
+6. Aus den Nachüberlegungen eines Vorgängerprojekts enstehend
 
 ## Erklärkonzepte für die 17 Ziele entwickeln
 
