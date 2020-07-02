@@ -8,7 +8,7 @@
 
 * [Erstellung dieses Projekts](erstellung-dieses-projekts/README.md)
   * [Übersicht zum Planungsprojekt](erstellung-dieses-projekts/workshop-overview.md)
-  * [Material und Vorlagen](erstellung-dieses-projekts/material-und-vorlagen/README.md)
+  * [Tools, Material und Vorlagen](erstellung-dieses-projekts/material-und-vorlagen/README.md)
     * [Einladungs-Mail gitbook](erstellung-dieses-projekts/material-und-vorlagen/einladungs-mail-gitbook.md)
     * [Open Source Manual](erstellung-dieses-projekts/material-und-vorlagen/open-source-manual.md)
     * [Gitbook-Manual](erstellung-dieses-projekts/material-und-vorlagen/gitbook-manual.md)
