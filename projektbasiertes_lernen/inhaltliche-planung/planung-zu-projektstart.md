@@ -28,8 +28,7 @@ Wir wollen nicht nur "Digitalunterricht". Auch wenn das Projektbuch unsere zentr
 Ideen dazu
 
 * die Schablonen von [17ziele.de](https://17ziele.de) in der Schule nutzen. 
-* 
-## Planungsaufgaben zum Ende der Phase
+* **Planungsaufgaben zum Ende der Phase**
 
 Vorausplanung: Bestimmung des Nachhaltigkeitsziels: ergibt sich aus der Entscheidung oben.
 

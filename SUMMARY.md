@@ -16,12 +16,6 @@
 * [Die Projektsteuerung](projektbasiertes_lernen/planung-der-projektsteuerung.md)
 * [Zeitplan](projektbasiertes_lernen/zeitplan.md)
 
-## Vorlagen
-
-## Arbeitsvorhaben <a id="ergebnisse"></a>
-
-## Projektergebnisse <a id="ergebnisse-1"></a>
-
 ## Wiki
 
 * [Definitionen](wiki/definitionen/README.md)
@@ -38,4 +32,8 @@
 ---
 
 * [LICENSE INFORMATION](license.md)
+
+## Übungsbereich
+
+* [Hier kann man üben](uebungsbereich/hier-kann-man-ueben.md)
 
