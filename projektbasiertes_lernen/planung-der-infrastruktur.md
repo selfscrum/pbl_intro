@@ -2,21 +2,33 @@
 
 ## Computer
 
-Welche Arbeitsmittel brauchen die Schüler\* zuhause und in der Schule? z.B. Computer zb Förderung 500€???
+Welche digitalen Arbeitsmittel brauchen die Schüler\* zuhause und in der Schule? 
+
+Wie können wir das erreichen bzw. unterstützen\`? z.B. Computer zb Förderung 500€???
 
 ## Software
 
-### gitbook
+Die Liste ergibt sich aus den einzelnen Arbeitsschritten. Wir sollten versuchen, eine Gesamtarchitektur zu entwickeln.
 
-### github
+### Software für Schüler
 
-### zoom oder jitsi oder bigbluebutton
+#### gitbook
 
-### oncoo
+#### zoom oder jitsi oder bigbluebutton
 
-### miro
+#### oncoo
 
-### confluence
+#### miro oder mural
 
-### schulcloud
+#### schul.cloud?
+
+### Software für Lehrer
+
+#### confluence?
+
+
+
+
+
+### 
 
