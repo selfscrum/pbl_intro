@@ -4,10 +4,11 @@
 
 Eine große Herausforderung auf dem Weg zur Selbstständigkeit ist im Allgemeinen die Zerlegung des Arbeitsvorhabens in einzelne Handlungsschritte.
 
-Wir schlagen vor, eine Form von Scrum als Projektmethode zu nutzen.
+**Wir schlagen vor, eine Form von Scrum als Projektmethode zu nutzen.**
 
 Quellen:
 
+* [Wakelet zu Scrum ](https://wakelet.com/wake/783e91d3-2349-48cc-9ba6-506c2bf17dea)
 * [Erklärung der Edunauten](https://docs.google.com/document/d/1K_RQAemyCwJdgX9zL5RSHBwD5v8VWAp66zR1uhJxSMc/edit#heading=h.2iuq4guyh4tz)
 * [EduScrum](https://eduscrum.nl/en/file/CKFiles/Der_eduScrum_Guide_DE_1.2.pdf)
 
