@@ -7,7 +7,7 @@ Kann in der Übergangszeit zwischen 2 Projekten stattfinden.
 Reflexionsrunde
 
 * Wie zufrieden sind wir mit dem Projekt?
-* Sind unsere Fragen bentwortet? Sind neue Fragen entstanden?
+* Sind unsere Fragen beantwortet? Sind neue Fragen entstanden?
 * Was haben wir als Projektteam gelernt?
 * Was können wir beim nächsten Mal verbessern / verändern?
 

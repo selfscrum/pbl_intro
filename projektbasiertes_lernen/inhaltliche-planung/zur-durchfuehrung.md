@@ -24,9 +24,9 @@ Wir wollen das [Projektbuch](../../wiki/definitionen/projektbuch.md) bereits als
 
 ### Erkennen von Trainingsbedarf und Organisation von Lerneinheiten
 
-Idealerweise bemerken die Schüler_innen ihre fehlenden Kompetenzen zum Erreichen der Ziele selber und organisieren sich entsprechend. Da dies vermutlich nicht durchgängig zu erwarten ist, benötigen wir die Aufmerksamkeit der Lerngebleiter\_ für dieses Thema.
+Idealerweise bemerken die Schüler\*innen ihre fehlenden Kompetenzen zum Erreichen der Ziele selber und organisieren sich entsprechend. Da dies vermutlich nicht durchgängig zu erwarten ist, benötigen wir die Aufmerksamkeit der Lernbegleiter\*innen für dieses Thema.
 
-Ein weiterer Einflussfaktor ist die "Erfüllung" des [Basiscurriculums](https://github.com/selfscrum/pbl_intro/tree/c600151ba3cb5de5752e8dd698758748b427ebcd/wiki/definitionen/basiscurriculum.md).
+Ein weiterer Einflussfaktor ist die "Erfüllung" des Basiscurriculums.
 
 Wir erwarten hier eine längere Beschäftigungsdauer mit diesem Thema \(evtl Todo für das PBL-Projekt?\)
 
