@@ -43,5 +43,5 @@ Infoblatt mit dem Vorgehen für die Ergebnisqualität erstellen. Die Lernbegleit
 
 Der Lernbegleiter\* stellt in der Planungsphase vor, wie das Projekt strukturiert ist. Wie sind die zeitlichen Abläufe, welche Treffen gibt es, welche besonderen Aktivitäten sind im Projekt wichtig?
 
-\(Da wir noch keine Projektstrukturierungsmethode haben, wird das sicher noch ein intensiver Arbeitspunkt.\)
+\(Da wir noch keine eindeutige Projektstrukturierungsmethode haben, wird das sicher noch ein intensiver Arbeitspunkt.\)
 
