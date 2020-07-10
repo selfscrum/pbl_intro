@@ -28,7 +28,11 @@ Wir wollen nicht nur "Digitalunterricht". Auch wenn das Projektbuch unsere zentr
 Ideen dazu
 
 * die Schablonen von [17ziele.de](https://17ziele.de) in der Schule nutzen. 
-* **Planungsaufgaben zum Ende der Phase**
+* \*\*\*\*
+
+\*\*\*\*
+
+## **Planungsaufgaben zum Ende der Phase**
 
 Vorausplanung: Bestimmung des Nachhaltigkeitsziels: ergibt sich aus der Entscheidung oben.
 
@@ -42,7 +46,7 @@ Mittel: Sollte es ein Projektbudget geben? Welches Material kann als vorhanden v
 
 Was ist möglich als Aktion für den Einstieg? Was kann den Schülern dazu angeboten werden? z.B. Film, Ausflug, Experten-Interview... Wo werden diese Ideen gesammelt? Sollten die Schüler dies auch vorschlagen können?
 
-**Noch offen:** Wo und wie planen und dokumentieren Lernbegleiter? Evtl brauchen wir hier noch eine geschützte separate Ablage \(oder hier im Projektbuch?\). Es darf auf jeden Fall keine "Privatablagen" geben. Das Wissen über das Projekt und die Teilnehmer ist auf Schulseite Gemeingut, damit eine gemeinsame Durchführung von Projekten, z.b. im Vertretungsfall möglich ist.
+**Noch offen:** Wo und wie planen und dokumentieren Lernbegleiter? Evtl brauchen wir hier noch eine geschützte separate Ablage \(oder hier im Projektbuch?\). Es darf auf jeden Fall keine "Privatablagen" geben. Das Wissen über das Projekt und die Teilnehmer ist auf Schulseite Gemeingut, damit eine gemeinsame Durchführung von Projekten, z.b. im Vertretungsfall möglich ist. Aus Datenschutzgründen wäre ein eigenes System sinnvoll \(Nextcloud?\)
 
 ## Ergebnis
 
