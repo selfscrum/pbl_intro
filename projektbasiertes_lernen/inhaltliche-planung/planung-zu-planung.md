@@ -6,9 +6,9 @@ Um die Phase erfolgreich abzuschließen, sollen die Schüler\*innen in dieser Ph
 
 Aufgabe für die Lernbegleiter: Erklären und einüben: Was ist eine Forschungsfrage? Alle Kreativ-Methoden und Sitzungsformate, bis hin zur Einzelberatung sind hier möglich. **Achtung: nicht durch verdeckte Fragen das Kind steuern!**
 
-Manche Jugendlichen brauchen eine längere Inkubationszeit, um eine echte Frage „auszutragen“. Daher bietet es sich an, einen Zeitraum von mehreren Tagen dafür vorzusehen. Verbindlichkeit entsteht dabei durch die Aufgabe, Ideen, Fragen und Hinweise auf interessantes Material auf dem Blog in Stichworten auf einem Arbeitsbogen der Projektbuchs zu notieren. Man kann auch eine Präsentationsstunde vorsehen, in der jeder Lernende der Gesamtgruppe selbst gewähltes Material aus dem Projektblog mit eigenen Kommentaren vorführt.
+> "Manche Jugendlichen brauchen eine längere Inkubationszeit, um eine echte Frage „auszutragen“. Daher bietet es sich an, einen Zeitraum von mehreren Tagen dafür vorzusehen. Verbindlichkeit entsteht dabei durch die Aufgabe, Ideen, Fragen und Hinweise auf interessantes Material auf dem Blog in Stichworten auf einem Arbeitsbogen der Projektbuchs zu notieren. Man kann auch eine Präsentationsstunde vorsehen, in der jeder Lernende der Gesamtgruppe selbst gewähltes Material aus dem Projektblog mit eigenen Kommentaren vorführt." \(Lisa Rosa\)
 
-**Zu klären:** Wie gehen wir mit den unterschiedlichen Lerngeschwindigkeiten an diesen zentralen Projektstellen um? In den weiteren Phasen kann ja unterschiedlich schnell gearbeitet werden. In diesem Schritt geht es vor allem um die Herstellung eines abgestimmten Vorgehens und um eine Verbindlichkeit zur Erreichung des Projektsziels, das heißt wir wollen sehen, dass die Schüler sich mit der Aufgabe beschäftigen.
+**Zu klären:** Wie gehen wir mit den unterschiedlichen Lerngeschwindigkeiten an dieser zentralen Projektstelle um? In den weiteren Phasen kann ja unterschiedlich schnell gearbeitet werden. In diesem Schritt geht es vor allem um die Herstellung eines abgestimmten Vorgehens und um eine Verbindlichkeit zur Erreichung des Projektsziels, das heißt wir wollen sehen, dass die Schüler sich mit der Aufgabe beschäftigen.
 
 ## Ergebnis der ersten Aktivität
 
