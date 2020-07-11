@@ -17,11 +17,19 @@ Wir müssten entscheiden, wie wir im Projektstart vorgehen wollen:
 
 ## Erklärkonzepte für die 17 Ziele entwickeln
 
+Für eine Grundeinführung die 17 Ziele aufbereiten und gut erklären.
+
 Wir müssen sicherstellen, dass die Nachhaltigkeitsthemen nicht als Bedrohung wahrgenommen werden. Dazu sollten wir ein Konzept entwickeln.
 
-z.B. "Mittelalter hatte seine Probleme, wir haben unsere... AIJ
+z.B. "Mittelalter hatte seine Probleme, wir haben unsere..."
 
-## Umsetzungsideen für den physischen Raum entwickeln
+## Wie gestalten wir den Lernraum?
+
+Wichtig: warum brauchen wir Dokumentation?
+
+Wie können wir aus Fehlern lernen?
+
+Digital und analog...
 
 Wir wollen nicht nur "Digitalunterricht". Auch wenn das Projektbuch unsere zentrale Prozess- und Ergebnisablage ist, sollen die Schüler\*innen auch in der physischen Welt aktiv werden.
 
