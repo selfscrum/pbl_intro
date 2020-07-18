@@ -10,11 +10,23 @@ Wir zeigen den Schülern noch nicht die ganze Themenpalette der Nachhaltigkeitsz
 
 Motivation: Sich kennenlernen und Einüben der Projektstrukturen
 
+## Einstieg
+
 
 
 ## Forschungsfrage 
 
-[Was ist eigentlich eine Forschungsfrage?](../../wiki/definitionen/forschungsfrage.md)
+Zunächst erklären - [Was ist eigentlich eine Forschungsfrage?](../../wiki/definitionen/forschungsfrage.md)
+
+Prüfen, ob die gefundenen Fragen wirklich Forschungsfragen sind. 
+
+Einüben...
+
+## Arbeitsvorhaben
+
+Die nächste Frage: wie kommen die individuellen Ziele zusammen?
+
+Zunächst erklären - [Was ist eigentlich ein Arbeitsvorhaben?](../../wiki/definitionen/arbeitsvorhaben.md)
 
 
 
