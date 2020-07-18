@@ -18,7 +18,7 @@ Wir passen die Projektabläufe an unsere Schulabläufe an, so dass Projektarbeit
 
 ![](../../.gitbook/assets/grafik%20%283%29.png)
 
-Wir wollen bei der Einführung von Projektarbeit einfach beginnen, so dass alle die Konzepte in Ruhe kennen lernen können. Daher beginnen wir mit Projekt 1 in einer ganz einfachen Form, die aber schon die Struktur für das ermöglicht, was wir später lernen.
+Wir wollen bei der Einführung von Projektarbeit einfach beginnen, so dass alle die Konzepte in Ruhe kennen lernen können. Daher beginnen wir mit [Projekt 1](projekt-1.md) in einer ganz einfachen Form, die aber schon die Struktur für das ermöglicht, was wir später lernen.
 
 Am Ende eines Projekts wollen wir eine Ruhephase vorsehen, in der man sich erholen kann, über das Erlebte noch einmal nachdenkt und für das nächste Projekt neue Ideen verarbeitet.
 
