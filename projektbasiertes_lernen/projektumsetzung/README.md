@@ -2,15 +2,17 @@
 
 ## Was ist ein Projekt?
 
-Ein Projekt ein anspruchsvolles Vorhaben mit einem definiertem Thema, einem konkreten Anfang und Ende.
+Ein Projekt ist ein anspruchsvolles Vorhaben mit einem definiertem Thema, einem konkreten Anfang und Ende. 
 
-In einem Projekt gibt es immer einen Projektleiter und ein Projektteam
+Wir wählen das Thema so, dass es für einige Wochen Gelegenheit zum Erforschen und Erarbeiten gibt. Wichtige Fähigkeiten, die ihr kennenlernt: Fragen auswählen, priorisieren, entscheiden können.
 
-Die Kunst ist, das Ziel so festzulegen, dass es voraussichtlich in der verfügbaren Zeit mit den verfügbaren Mitteln erreicht werden kann. Also eher "Erforsche..." als "Werde fertig mit..."
+In einem Projekt gibt es immer einen Projektleiter und ein Projektteam.
 
-Das Ende eines Projekts kann auch sein, dass man nicht fertig geworden ist.
+Projekte gelingen nicht immer so, wie es vorher geplant war. Das kann verschiedene Gründe haben. Manchmal scheitern Projekte auch
 
-Auswählen, priorisieren, entscheiden können.
+Die Kunst ist, das Ziel so zu wählen, dass es voraussichtlich in der verfügbaren Zeit mit den verfügbaren Mitteln erreicht werden kann. Also eher "Erforsche..." als "Werde fertig mit...", das nimmt den Druck raus.
+
+
 
 
 

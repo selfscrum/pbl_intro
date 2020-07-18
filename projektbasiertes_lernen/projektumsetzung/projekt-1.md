@@ -4,9 +4,7 @@
 
 ### Projektthema
 
-Wir zeigen den Schülern noch nicht die ganze Themenpalette der Nachhaltigkeitsziele. Dieses erste Projekt handelt vom Thema:
-
-04 - Hochwertige Bildung
+Im ersten Projekt zeigen wir den Schülern noch nicht die ganze Themenpalette der 17 Nachhaltigkeitsziele, um den Start nicht zu überfrachten. Dieses erste Projekt handelt vom Thema [**4 - Hochwertige Bildung**](https://17ziele.de/ziele/4.html)**.**
 
 ## Einstieg
 
