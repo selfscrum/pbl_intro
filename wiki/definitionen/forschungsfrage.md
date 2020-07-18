@@ -1,8 +1,8 @@
 # Forschungsfrage
 
-Eine Forschungsfrage ist deine eigene Frage, dir die wirklich interessiert und die du spannend findest. Eine, die du selber beantworten können willst. Sie sollte groß genug sein, um im Projekt gut bearbeitet werden können.
+Eine Forschungsfrage ist deine eigene Frage, dir dich wirklich interessiert und die du spannend findest. Eine, die du selber beantworten können willst. Sie sollte groß genug sein, um im Projekt gut bearbeitet werden können.
 
-Wenn Fragen von mehr als einem Schüler _gemeinsam bearbeitet werden, ist es eine \*Teamfrage_.
+Wenn Fragen von mehr als einem Schüler\* gemeinsam bearbeitet werden, ist es eine Teamfrage.
 
 ## Noch offene Arbeiten
 
