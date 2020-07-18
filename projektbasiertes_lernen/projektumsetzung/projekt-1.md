@@ -20,13 +20,15 @@ Eine attraktive Möglichkeit, das Thema zu präsentieren, so dass die Schüler v
 
 ## Planung
 
-### Forschungsfrage 
+### "Meine" Forschungsfrage 
 
 Zunächst erklären - [Was ist eigentlich eine Forschungsfrage?](../../wiki/definitionen/forschungsfrage.md)
 
-Prüfen, ob die gefundenen Fragen wirklich Forschungsfragen sind. 
+Prüfen \(Achtung - nicht bewerten\), ob die gefundenen Fragen wirklich Forschungsfragen sind. 
 
 Einüben...
+
+Alle stellen ihre Forschungsfragen dem Team vor. So können wir sehen, wie vielfältig die Sicht auf dieses Thema ist.
 
 ### Arbeitsvorhaben
 
