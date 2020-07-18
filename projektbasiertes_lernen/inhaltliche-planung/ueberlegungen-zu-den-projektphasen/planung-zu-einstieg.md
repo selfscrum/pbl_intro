@@ -10,7 +10,7 @@
 
 * Wir brauchen noch eine Erklärung der Beschäftigung mit dem Nachhaltigkeitsthema für die Schüler\*innen:
   * Was bedeutet das Ziel für dich persönlich? 
-  * Wie findest du deine [Forschungsfrage](../../wiki/definitionen/forschungsfrage.md)?
+  * Wie findest du deine [Forschungsfrage](../../../wiki/definitionen/forschungsfrage.md)?
 * Einverständniserklärung der Eltern \(und später auch der Schüler\*\) , die Projektergebnisse der beteiligten Schüler\*innen öffentlich darzustellen \(einmal pro Schuljahr?\)
 
 ## Arbeitsmethoden und -techniken der Schüler\*innen

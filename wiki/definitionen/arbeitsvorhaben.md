@@ -6,9 +6,3 @@ Wenn das Arbeitsvorhaben nicht alleine bearbeitet wird, gibt es mehrere Forschun
 
 Ihr dokumentiert die Arbeitsvorhaben im [Projektbuch](projektbuch.md).
 
-\*\*\*\*
-
-**Noch offen:** Baue dem Lernbegleiter ein Infoblatt, dass ihn in die Lage versetzt, mehrere Schüler so zu begleiten, dass sie ihre Einzelfragen gegenseitig ausreichend berücksichtigen und trotzdem eine nicht-belanglose übergeordnetes Teamfrage finden. Siehe auch[ https://shiftingschool.wordpress.com/2019/09/19/hauptlernform-projektlernen-wie-geht-das/](https://shiftingschool.wordpress.com/2019/09/19/hauptlernform-projektlernen-wie-geht-das/) im Abschnitt "kritische Stellen".
-
-D
-

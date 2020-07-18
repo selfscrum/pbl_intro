@@ -2,7 +2,7 @@
 
 Infos zum Thema: [17ziele.de](https://17ziele.de)
 
-![](../../.gitbook/assets/grafik.png)
+![](../../../.gitbook/assets/grafik.png)
 
 ## Festlegung des Themenbereichs
 
@@ -48,7 +48,7 @@ Dauer des Projekts: Das erste Projekt ist auf 3 Wochen festgelegt, die Folgeproj
 
 Kooperationen: fallweise zu klären. Können wir hier vorausplanen?
 
-Ressourcen: wenn man bereits ein Thema hat, kann die Auswahl für das [Materialangebot ](../../wiki/definitionen/materialangebot.md)schon beginnen. Sonst erst in der [Planungsphase](planung-zu-planung.md).
+Ressourcen: wenn man bereits ein Thema hat, kann die Auswahl für das [Materialangebot ](../../../wiki/definitionen/materialangebot.md)schon beginnen. Sonst erst in der [Planungsphase](planung-zu-planung.md).
 
 Mittel: Sollte es ein Projektbudget geben? Welches Material kann als vorhanden vorausgesetzt werden, wie entsteht später \(in der [Planungsphase](planung-zu-planung.md)\) eine "Projektmaterialliste"?
 
@@ -58,7 +58,7 @@ Was ist möglich als Aktion für den Einstieg? Was kann den Schülern dazu angeb
 
 ## Ergebnis
 
-Ein [Nachhaltigkeitsziel](../../wiki/definitionen/nachhaltigkeitsziel.md) ist für die Schüler\*innen ausgewählt.
+Ein [Nachhaltigkeitsziel](../../../wiki/definitionen/nachhaltigkeitsziel.md) ist für die Schüler\*innen ausgewählt.
 
 Eine mögliche Startaktion für den Einstieg ist skizziert.
 

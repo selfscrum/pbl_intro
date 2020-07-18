@@ -22,13 +22,13 @@ Weiterführung
 
 Wie ordnen wird die Projekte im Jahresablauf? Eine erste Idee: Wir nutzen die Blöcke zwischen den Ferien jeweils als ein Projekt.
 
-![](../.gitbook/assets/grafik%20%281%29.png)
+![](../../.gitbook/assets/grafik%20%281%29.png)
 
 ## Wochenplan
 
 Welche Zeiten in der Woche widmen wir dem Projekt? Was passiert in der übrigen Zeit? Erster grober Entwurf:
 
-![](../.gitbook/assets/grafik%20%282%29.png)
+![](../../.gitbook/assets/grafik%20%282%29.png)
 
 
 

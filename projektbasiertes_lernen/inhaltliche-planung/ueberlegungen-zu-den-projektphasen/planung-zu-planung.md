@@ -16,7 +16,7 @@ Jeder\* Schüler\* hat seine Forschungsfrage\(n\) für sich formuliert.
 
 ## Aktivität 2: Finde das Arbeitsvorhaben
 
-Das [Arbeitsvorhaben](../../wiki/definitionen/arbeitsvorhaben.md) entscheidet über die Ausformulierung der einzelnen Projektaufträge.
+Das [Arbeitsvorhaben](../../../wiki/definitionen/arbeitsvorhaben.md) entscheidet über die Ausformulierung der einzelnen Projektaufträge.
 
 Projekte können Erkundungs- oder Produktprojekte sein. Die Schüler\* können also entweder etwas erforschen oder ein Produkt erstellen. Wenn die Schüler\* ihre Arbeitsvorhaben gefunden haben, stellen sie dies der Gruppe vor.
 

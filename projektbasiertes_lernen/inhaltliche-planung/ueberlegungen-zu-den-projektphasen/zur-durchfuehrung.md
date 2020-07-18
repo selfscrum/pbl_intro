@@ -20,7 +20,7 @@ Die Projektdurchführung ist ein dynamischer Prozess. Die Lernbegleiter\* als "P
 
 ### Umgang mit Arbeitsständen und -ergebnissen \(Dokumente und andere Artefakte\)
 
-Wir wollen das [Projektbuch](../../wiki/definitionen/projektbuch.md) bereits als Speicher für die Zwischenstände der Projektarbeit nutzen. Dazu müssen wir klären, wie die Schüler\* Zugang zu den Systemen bekommen und wie sie damit gut umgehen können.
+Wir wollen das [Projektbuch](../../../wiki/definitionen/projektbuch.md) bereits als Speicher für die Zwischenstände der Projektarbeit nutzen. Dazu müssen wir klären, wie die Schüler\* Zugang zu den Systemen bekommen und wie sie damit gut umgehen können.
 
 ### Erkennen von Trainingsbedarf und Organisation von Lerneinheiten
 
