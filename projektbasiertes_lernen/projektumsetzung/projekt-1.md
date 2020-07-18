@@ -24,6 +24,8 @@ Eine attraktive Möglichkeit, das Thema zu präsentieren, so dass die Schüler v
 
 Zunächst erklären - [Was ist eigentlich eine Forschungsfrage?](../../wiki/definitionen/forschungsfrage.md)
 
+Die Schüler versuchen, "ihre" Frage zu finden.
+
 Prüfen \(Achtung - nicht bewerten\), ob die gefundenen Fragen wirklich Forschungsfragen sind. 
 
 Einüben...
