@@ -8,15 +8,13 @@ Wir zeigen den Schülern noch nicht die ganze Themenpalette der Nachhaltigkeitsz
 
 ## Projektziel
 
-Kennenlernen und Einüben der Projektstrukturen und Teambuilding
+Motivation: Sich kennenlernen und Einüben der Projektstrukturen
+
+
 
 ## Forschungsfrage 
 
 [Was ist eigentlich eine Forschungsfrage?](../../wiki/definitionen/forschungsfrage.md)
-
-Ist diesmal vorgegeben und wird nicht selber entwickelt: 
-
-"Warum möchte ich bei der freien Schule Ostfriesland sein?"
 
 
 
