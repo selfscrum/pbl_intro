@@ -1,3 +1,7 @@
+---
+description: Wie gestalten wir unser erstes Projekt konkret?
+---
+
 # Projekt 1
 
 ## Projektstart
