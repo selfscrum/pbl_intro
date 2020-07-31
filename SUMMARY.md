@@ -4,7 +4,7 @@
 
 ## Projektbasiertes Lernen <a id="projektbasiertes_lernen"></a>
 
-* [Projektumsetzung](projektbasiertes_lernen/projektumsetzung/README.md)
+* [Wie wir Projekte umsetzen](projektbasiertes_lernen/projektumsetzung/README.md)
   * [Projekt 1](projektbasiertes_lernen/projektumsetzung/projekt-1.md)
 * [Vorausplanung zum Ablauf](projektbasiertes_lernen/inhaltliche-planung/README.md)
   * [Überlegungen zu den Projektphasen](projektbasiertes_lernen/inhaltliche-planung/ueberlegungen-zu-den-projektphasen/README.md)
@@ -27,6 +27,7 @@
   * [Materialangebot](wiki/definitionen/materialangebot.md)
   * [Nachhaltigkeitsziel](wiki/definitionen/nachhaltigkeitsziel.md)
   * [Projektbuch](wiki/definitionen/projektbuch.md)
+  * [Thema](wiki/definitionen/thema.md)
 * [Projektregeln](wiki/projektregeln.md)
 
 ---

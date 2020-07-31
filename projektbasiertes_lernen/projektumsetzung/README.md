@@ -1,16 +1,24 @@
-# Projektumsetzung
+# Wie wir Projekte umsetzen
+
+## Einleitung
+
+Projektbasiertes Lernen ist für uns ein neues Lernfeld - für die älteren Schüler genauso wie für die Schule. Wie haben diese Lernform gewählt, weil sie den Schüler\*n ermöglicht, an Themen aus der realen Welt zu arbeiten, ihre eigenen Fragen zu finden und dabei noch die Arbeit in Projekten kennen zu lernen - eine wichtige Kompetenz, die künftig in fast jeder Beschäftigung benötigt wird.
+
+Wir wollen auch im projektbasierten Lernen unseren Grundwerten folgen und einen offenen Lernraum zur Verfügung stellen. Wir werden daher einfach beginnen und die Schüler durch die wesentlichen Strukturen leiten, ohne diese mit Regeln zu überfrachten. Nach jedem Projekt reflektieren wir das Erfahrene und Gelernte und überlegen, was wir im nächsten Projekt besser machen können. So wird im Laufe der Zeit die ganze Vielfalt von Projektwissen für alle sichtbar und erfahrbar.
 
 ## Was ist ein Projekt?
 
-Ein Projekt ist ein anspruchsvolles Vorhaben mit einem definiertem Thema, einem konkreten Anfang und Ende. Wir möchten jedem Schüler und jeder Schülerin die Gelegenheit geben, die eigenen Fragen zum Thema zu stellen und zu erforschen.
+Ein Projekt ist ein anspruchsvolles Vorhaben mit einem festgelegten Auftrag sowie einem konkreten Anfang und Ende. 
 
-Wir wählen das Thema so, dass es für einige Wochen Gelegenheit zum Erforschen und Erarbeiten gibt. Wichtige Fähigkeiten, die ihr kennenlernt: Fragen auswählen, priorisieren, entscheiden können.
+Ein Projekt bezieht sich bei uns immer auf ein Thema und die Schule plant ein übergreifendes Ziel zur Entwicklung einer bestimmten Kompetenz. Wir möchten jedem Schüler und jeder Schülerin die Gelegenheit geben, eigene Fragen zum Thema zu stellen und zu erforschen. Deswegen machen auch nicht alle dasselbe Projekt, sondern arbeiten entweder für sich oder in einer selbst gewählten Gruppe.
 
-In einem Projekt gibt es immer einen Projektleiter und ein Projektteam.
+Wir wählen das Thema so, dass es für einige Wochen Gelegenheit zum Erforschen und Erarbeiten gibt. Wichtige Fähigkeiten, die die Schüler\* kennenlernen: mit anderen zusammenarbeiten, Fragen auswählen, Aufgaben priorisieren, entscheiden können.
+
+In einem Projekt gibt es immer einen Projektleiter \(meistens ein Lernbegleiter\) und ein Projektteam.
 
 Projekte gelingen nicht immer so, wie es vorher geplant war. Das kann verschiedene Gründe haben. Manchmal scheitern Projekte auch
 
-Die Kunst ist, das Ziel so zu wählen, dass es voraussichtlich in der verfügbaren Zeit mit den verfügbaren Möglichkeiten erreicht werden kann. Also eher "Erforsche..." als "Werde fertig mit...", das nimmt den Druck raus.
+Die Kunst ist, die Projektfrage so zu wählen, dass sie voraussichtlich in der verfügbaren Zeit mit den verfügbaren Möglichkeiten auch beantwortet werden kann, aber auch nicht trivial ist. 
 
 ## Wie arbeiten wir in Projekten?
 
