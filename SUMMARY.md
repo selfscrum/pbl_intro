@@ -27,6 +27,7 @@
   * [Materialangebot](wiki/definitionen/materialangebot.md)
   * [Nachhaltigkeitsziel](wiki/definitionen/nachhaltigkeitsziel.md)
   * [Projektbuch](wiki/definitionen/projektbuch.md)
+  * [Projektziel](wiki/definitionen/projektziel.md)
   * [Thema](wiki/definitionen/thema.md)
 * [Projektregeln](wiki/projektregeln.md)
 

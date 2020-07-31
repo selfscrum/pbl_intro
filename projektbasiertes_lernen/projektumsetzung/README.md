@@ -10,7 +10,7 @@ Wir wollen auch im projektbasierten Lernen unseren Grundwerten folgen und einen 
 
 Ein Projekt ist ein anspruchsvolles Vorhaben mit einem festgelegten Auftrag sowie einem konkreten Anfang und Ende. 
 
-Ein Projekt bezieht sich bei uns immer auf ein Thema und die Schule plant ein übergreifendes Ziel zur Entwicklung einer bestimmten Kompetenz. Wir möchten jedem Schüler und jeder Schülerin die Gelegenheit geben, eigene Fragen zum Thema zu stellen und zu erforschen. Deswegen machen auch nicht alle dasselbe Projekt, sondern arbeiten entweder für sich oder in einer selbst gewählten Gruppe.
+Ein Projekt bezieht sich bei uns immer auf ein [Thema](../../wiki/definitionen/thema.md) und die Schule plant ein übergreifendes Ziel zur Entwicklung einer bestimmten Kompetenz. Wir möchten jedem Schüler und jeder Schülerin die Gelegenheit geben, eigene Fragen zum Thema zu stellen und zu erforschen. Deswegen machen auch nicht alle dasselbe Projekt, sondern arbeiten entweder für sich oder in einer selbst gewählten Gruppe.
 
 Wir wählen das Thema so, dass es für einige Wochen Gelegenheit zum Erforschen und Erarbeiten gibt. Wichtige Fähigkeiten, die die Schüler\* kennenlernen: mit anderen zusammenarbeiten, Fragen auswählen, Aufgaben priorisieren, entscheiden können.
 
