@@ -10,25 +10,27 @@ Wir wollen auch im projektbasierten Lernen unseren Grundwerten folgen und einen 
 
 Ein Projekt ist ein anspruchsvolles Vorhaben mit einem festgelegten Auftrag sowie einem konkreten Anfang und Ende. 
 
-Ein Projekt bezieht sich bei uns immer auf ein [Thema](../../wiki/definitionen/thema.md) und die Schule plant ein übergreifendes Ziel zur Entwicklung einer bestimmten Kompetenz. Wir möchten jedem Schüler und jeder Schülerin die Gelegenheit geben, eigene Fragen zum Thema zu stellen und zu erforschen. Deswegen machen auch nicht alle dasselbe Projekt, sondern arbeiten entweder für sich oder in einer selbst gewählten Gruppe.
+Ein Projekt bezieht sich bei uns immer auf ein [Thema](../../wiki/definitionen/thema.md) und die Schule plant ein übergreifendes Ziel zur Entwicklung einer bestimmten Kompetenz. Wir möchten jedem Schüler und jeder Schülerin die Gelegenheit geben, eigene [Forschungsfragen](../../wiki/definitionen/forschungsfrage.md) zum Thema zu stellen und zu erforschen. Deswegen machen auch nicht alle dasselbe Projekt, sondern arbeiten entweder für sich oder in einer selbst gewählten Gruppe.
 
-Wir wählen das Thema so, dass es für einige Wochen Gelegenheit zum Erforschen und Erarbeiten gibt. Wichtige Fähigkeiten, die die Schüler\* kennenlernen: mit anderen zusammenarbeiten, Fragen auswählen, Aufgaben priorisieren, entscheiden können.
+Wir wählen das [Thema](../../wiki/definitionen/thema.md) so, dass es für einige Wochen Gelegenheit zum Erforschen und Erarbeiten gibt. Wichtige Fähigkeiten, die die Schüler\* kennenlernen: mit anderen zusammenarbeiten, Fragen auswählen, Aufgaben priorisieren, entscheiden können.
 
-In einem Projekt gibt es immer einen Projektleiter \(meistens ein Lernbegleiter\) und ein Projektteam.
+In einem Projekt gibt es immer einen Projektleiter \(meistens ein Lernbegleiter\*\) und ein Projektteilnehmer\*.
 
-Projekte gelingen nicht immer so, wie es vorher geplant war. Das kann verschiedene Gründe haben. Manchmal scheitern Projekte auch
+Die Kunst ist, das [Arbeitsvorhaben](../../wiki/definitionen/arbeitsvorhaben.md) im Projekt so zu wählen, dass sie voraussichtlich in der verfügbaren Zeit mit den verfügbaren Möglichkeiten auch beantwortet werden kann, aber auch nicht trivial ist. 
 
-Die Kunst ist, die Projektfrage so zu wählen, dass sie voraussichtlich in der verfügbaren Zeit mit den verfügbaren Möglichkeiten auch beantwortet werden kann, aber auch nicht trivial ist. 
+Projekte gelingen nicht immer so, wie es vorher geplant war. Das kann verschiedene Gründe haben. Manchmal scheitern Projekte auch. Das ist kein Beinbruch, sondern Teil des Lernprozesses.
 
-## Wie arbeiten wir in Projekten?
+## Wann arbeiten wir an Projekten?
 
 Wir passen die Projektabläufe an unsere Schulabläufe an, so dass Projektarbeit und Schulbetrieb gut zusammenpassen. Der Wochenplan für ein Projekt sieht zunächst so aus:
 
 ![](../../.gitbook/assets/grafik%20%283%29.png)
 
+## Wie arbeiten wir in Projekten?
+
 Wir wollen bei der Einführung von Projektarbeit einfach beginnen, so dass alle die Konzepte in Ruhe kennen lernen können. Daher starten wir mit [Projekt 1](projekt-1.md) in einer ganz einfachen Form, die aber schon die Struktur für das ermöglicht, was wir später lernen.
 
-Am Ende eines jeden Projekts wollen wir eine Ruhephase vorsehen, in der man sich erholen kann, über das Erlebte noch einmal nachdenkt und für das nächste Projekt neue Ideen verarbeitet. Wenn die Schüler mit dem Projekt vorher fertig sind, bleibt die geplante Zeit "projektfrei".
+Am Ende eines jeden Projekts wollen wir eine Ruhephase vorsehen, in der man sich erholen kann, über das Erlebte noch einmal nachdenkt und für das nächste Projekt neue Ideen verarbeitet. Wenn die Schüler\* mit dem Projekt schon vorher fertig sind, bleibt die geplante Zeit "projektfrei".
 
 
 
