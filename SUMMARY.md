@@ -6,7 +6,7 @@
 
 * [Wie wir Projekte umsetzen](projektbasiertes_lernen/projektumsetzung/README.md)
   * [Projekt 1](projektbasiertes_lernen/projektumsetzung/projekt-1.md)
-* [Vorausplanung zum Ablauf](projektbasiertes_lernen/inhaltliche-planung/README.md)
+* [Hintergrundmaterial - Vorausplanung zum Ablauf](projektbasiertes_lernen/inhaltliche-planung/README.md)
   * [Überlegungen zu den Projektphasen](projektbasiertes_lernen/inhaltliche-planung/ueberlegungen-zu-den-projektphasen/README.md)
     * [Zum "Projektstart"](projektbasiertes_lernen/inhaltliche-planung/ueberlegungen-zu-den-projektphasen/planung-zu-projektstart.md)
     * [Zum "Einstieg"](projektbasiertes_lernen/inhaltliche-planung/ueberlegungen-zu-den-projektphasen/planung-zu-einstieg.md)
