@@ -14,11 +14,11 @@ Im ersten Projekt zeigen wir den Schülern noch nicht die ganze Themenpalette de
 
 ### Projektziel
 
-Motivation: Sich kennenlernen und Einüben der Projektstrukturen
+Sich kennenlernen und Einüben der Projektstrukturen
 
 ### Vermitteln des Themas
 
-Wir suchen eine attraktive Möglichkeit, das Thema zu präsentieren, so dass die Schüler verstehen, dass es für sie relevant ist. Zum Beispiel ein gemeinsamer, themenbezogener Ausflug.
+Wir nutzen eine attraktive Möglichkeit, das Thema zu präsentieren, so dass die Schüler verstehen, dass es für sie relevant ist. Zum Beispiel ein gemeinsamer, themenbezogener Ausflug.
 
 ## Planung
 
@@ -46,7 +46,9 @@ Wir stellen fest, dass das Arbeitsvorhaben die eigentliche inhaltliche Arbeit is
 
 Wir legen daher den Augenmerk eher auf die Strukturen, die der Projektleiter benötigt, um das Projekt zu steuern.
 
+## Präsentation
 
+Eins gehört zum Projekt immer dazu - eine Präsentation zum Schluss. Wie diese Präsentation im einzelnen aussieht, wollen wir nicht vorgeben. Die Schüler\* entwickeln ihre Präsentation als Teil ihrer Projektarbeit - dabei ist die Präsentation jedoch nicht das Ziel des Projekts, sondern nur eine Sicht auf die erzielten Ergebnisse.
 
 
 
