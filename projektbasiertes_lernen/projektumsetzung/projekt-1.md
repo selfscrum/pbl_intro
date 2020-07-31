@@ -14,11 +14,11 @@ Im ersten Projekt zeigen wir den Schülern noch nicht die ganze Themenpalette de
 
 ### Projektziel
 
-Sich kennenlernen und Einüben der Projektstrukturen
+Unser Projektziel für das erste Projekt: Sich kennenlernen und Einüben der Projektstrukturen.
 
 ### Vermitteln des Themas
 
-Wir nutzen eine attraktive Möglichkeit, das Thema zu präsentieren, so dass die Schüler verstehen, dass es für sie relevant ist. Zum Beispiel ein gemeinsamer, themenbezogener Ausflug.
+Wir nutzen eine attraktive Möglichkeit, das [Thema](../../wiki/definitionen/thema.md) zu präsentieren, so dass die Schüler verstehen, dass es für sie relevant ist.
 
 ## Planung
 
